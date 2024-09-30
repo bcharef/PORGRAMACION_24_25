@@ -2,7 +2,7 @@ package unidades.unidad1.ejemplos;
 
 public class programa2 {
 	public static void main(String[] args) {
-		System.out.print("esto va a funcionando");
+		System.out.print("esto vamos funcionando");
 	}
 
 }
